@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1383918386810" ID="ID_500154351" MODIFIED="1384705710310" TEXT="Symfony 2">
+<node CREATED="1383918386810" ID="ID_500154351" MODIFIED="1386017938403" TEXT="Symfony 2">
 <node CREATED="1383918408604" ID="ID_1039446326" MODIFIED="1384705715027" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -249,8 +249,7 @@
       <b>Unit test</b>&#160;- test against a specific PHP class.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1384690360477" ID="ID_1936375482" MODIFIED="1384690413243">
 <richcontent TYPE="NODE"><html>
@@ -262,8 +261,7 @@
       <b>Functional test</b>&#160;- tests the overall behaviour of your application.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1384693587151" ID="ID_547833205" MODIFIED="1384693589621" TEXT="steps">
 <node CREATED="1384691887987" ID="ID_162940916" MODIFIED="1384691892409" TEXT="make a request"/>
 <node CREATED="1384691893138" ID="ID_1882278216" MODIFIED="1384691896618" TEXT="test the response"/>
@@ -281,13 +279,46 @@
       Extend the WebTestTestCase class
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 <node CREATED="1384705698428" ID="ID_1815441537" MODIFIED="1384705725641" POSITION="left" TEXT="Validation">
 <icon BUILTIN="full-7"/>
+</node>
+<node CREATED="1386016150323" ID="ID_984102869" MODIFIED="1386016489145" POSITION="right" TEXT="Forms">
+<icon BUILTIN="full-8"/>
+<node CREATED="1386016474829" ID="ID_873782387" MODIFIED="1386016482444" TEXT="Always create form classes."/>
+<node CREATED="1386016159240" ID="ID_1700829609" MODIFIED="1386016184921" TEXT="Embedded forms">
+<node CREATED="1386016185495" ID="ID_1089397223" MODIFIED="1386016197910" TEXT="include other objects into a form"/>
+<node CREATED="1386016217471" ID="ID_317931899" MODIFIED="1386016270327">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      easily add external objects to a form,
+    </p>
+    <p>
+      making them reusable for other forms.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1386016428318" ID="ID_1747326533" MODIFIED="1386016438963" TEXT="Form theming">
+<node CREATED="1386016445494" ID="ID_1961778907" MODIFIED="1386016452109" TEXT="everything can be customized"/>
+</node>
+<node CREATED="1386017588374" ID="ID_1472654268" MODIFIED="1386017601796" TEXT="CSRF added by default"/>
+<node CREATED="1386017881780" ID="ID_1253749127" MODIFIED="1386017889482" TEXT="Cookbook topics">
+<node CREATED="1386017890540" ID="ID_105692922" MODIFIED="1386017897674" TEXT="file uploads with Doctrine"/>
+<node CREATED="1386017898572" ID="ID_91072709" MODIFIED="1386017916137" TEXT="form with a dynamic number of sub-forms"/>
+</node>
+</node>
+<node CREATED="1386017939364" HGAP="25" ID="ID_753213158" MODIFIED="1386017951426" POSITION="left" TEXT="Security" VSHIFT="10">
+<icon BUILTIN="full-9"/>
 </node>
 </node>
 </map>
