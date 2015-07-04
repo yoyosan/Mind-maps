@@ -779,7 +779,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435987667945" FOLDED="true" HGAP="22" ID="ID_649809097" MODIFIED="1435996545932" POSITION="right" TEXT="Hydration" VSHIFT="16">
+<node CREATED="1435987667945" FOLDED="true" HGAP="23" ID="ID_649809097" MODIFIED="1436015779485" POSITION="right" TEXT="Hydration" VSHIFT="14">
 <icon BUILTIN="full-5"/>
 <node CREATED="1435987852677" ID="ID_654295025" MODIFIED="1435987854610" TEXT="body">
 <node CREATED="1435987824191" ID="ID_499776673" MODIFIED="1435987883370" TEXT="+/- 65-70% water">
@@ -843,8 +843,7 @@
       (breathing)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435993370558" ID="ID_113989372" MODIFIED="1435993379890" TEXT="humidified at 100%"/>
 <node CREATED="1435993385182" ID="ID_489720767" MODIFIED="1435993407763" TEXT="on a plane">
 <node CREATED="1435993408334" ID="ID_1972461177" MODIFIED="1435993408835" TEXT="there&apos;s 0% humidity"/>
@@ -905,8 +904,7 @@
       urine color
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435993620765" ID="ID_958729352" MODIFIED="1435993628074" TEXT="pale limonade">
 <node CREATED="1435993628573" ID="ID_1798676745" MODIFIED="1435993634585" TEXT="great hydration"/>
 </node>
@@ -923,8 +921,7 @@
       small volume of urine
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435993666420" ID="ID_1252746028" MODIFIED="1435993670360" TEXT="bad hydration"/>
 </node>
 <node CREATED="1435993679701" ID="ID_1067143316" MODIFIED="1435993683209" TEXT="motor oil">
@@ -959,8 +956,7 @@
       &lt; 1 h moderated intensity
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435994187177" ID="ID_1163730371" MODIFIED="1435994192637" TEXT="water is fine"/>
 </node>
 <node CREATED="1435994225504" ID="ID_1040771081" MODIFIED="1435994287296">
@@ -976,8 +972,7 @@
       in the outside heat &gt; 30m
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435994288215" ID="ID_400707839" MODIFIED="1435994291181" TEXT="sports drink">
 <node CREATED="1435994299376" ID="ID_991760056" MODIFIED="1435994305404" TEXT="not a lunch time beverage"/>
 <node CREATED="1435994317152" ID="ID_690240633" MODIFIED="1435994320580" TEXT="provides fluid"/>
@@ -998,8 +993,7 @@
       during sweat
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#ff0000" CREATED="1435994406975" ID="ID_1782654295" MODIFIED="1435994418720" TEXT="causes cramps">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -1134,6 +1128,537 @@
 </node>
 <node CREATED="1435996358353" ID="ID_479086283" MODIFIED="1435996375067" TEXT="laxatives">
 <node CREATED="1435996387249" ID="ID_383919405" MODIFIED="1435996409150" TEXT="can cause huge dehydration"/>
+</node>
+</node>
+</node>
+<node CREATED="1436015749784" FOLDED="true" HGAP="18" ID="ID_1083124967" MODIFIED="1436033863368" POSITION="left" VSHIFT="10">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Not all <b>carbohydrates</b>&#160;are created equal
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="full-6"/>
+<node CREATED="1436016956803" ID="ID_1575641985" MODIFIED="1436017021936" TEXT="nutritional value">
+<node CREATED="1436017047442" ID="ID_609881038" MODIFIED="1436017054760" TEXT="fuel for central nervous system"/>
+<node CREATED="1436017060147" ID="ID_981219336" MODIFIED="1436017064103" TEXT="for exercising muscle"/>
+<node CREATED="1436017367455" ID="ID_142328528" MODIFIED="1436017379369" TEXT="considered malign">
+<arrowlink DESTINATION="ID_1794824571" ENDARROW="Default" ENDINCLINATION="165;0;" ID="Arrow_ID_1424236128" STARTARROW="None" STARTINCLINATION="165;0;"/>
+</node>
+</node>
+<node CREATED="1436017271865" HGAP="25" ID="ID_1794824571" MODIFIED="1436017383070" TEXT="main issue" VSHIFT="6">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1794824571" ENDARROW="Default" ENDINCLINATION="165;0;" ID="Arrow_ID_1424236128" SOURCE="ID_142328528" STARTARROW="None" STARTINCLINATION="165;0;"/>
+<node COLOR="#990000" CREATED="1436017278657" ID="ID_45294819" MODIFIED="1436017320113" TEXT="whole grains vs refined grains"/>
+<node CREATED="1436017305433" ID="ID_1100482862" MODIFIED="1436017314693" TEXT="changing food supply">
+<node CREATED="1436017409728" ID="ID_1042821623" MODIFIED="1436017613699" TEXT="in early 1900&apos;s people ate 500g/day">
+<node CREATED="1436017443848" ID="ID_1845374401" MODIFIED="1436017451732" TEXT="people were more physically active"/>
+<node CREATED="1436017463231" ID="ID_1139218648" MODIFIED="1436017471156" TEXT="but they were eating whole grains">
+<node CREATED="1436017477535" ID="ID_1122870865" MODIFIED="1436017498404" TEXT="whole weet bread"/>
+<node CREATED="1436017499231" ID="ID_1637572792" MODIFIED="1436017501564" TEXT="brown rice"/>
+<node CREATED="1436017506615" ID="ID_1505006146" MODIFIED="1436017509580" TEXT="whole oats"/>
+</node>
+</node>
+<node CREATED="1436017425008" ID="ID_1492749101" MODIFIED="1436017545404" TEXT="steady decline until the 1960&apos;s">
+<node CREATED="1436017567527" ID="ID_60162261" MODIFIED="1436017593882" TEXT="we started refining carbohydrates in the 1940&apos;s"/>
+</node>
+<node CREATED="1436017624910" ID="ID_1491550231" MODIFIED="1436017650395" TEXT="mid 1960&apos;s total carbo&apos;s climbed again">
+<node CREATED="1436017655502" ID="ID_425544394" MODIFIED="1436017660211" TEXT="but instead of whole grains"/>
+<node CREATED="1436017664277" ID="ID_195877615" MODIFIED="1436017687083" TEXT="came were highly processed sweetened foods"/>
+<node CREATED="1436017702566" ID="ID_760331782" MODIFIED="1436017713218" TEXT="this shift has been associated with chronic diseases">
+<node CREATED="1436017713821" ID="ID_1865868854" MODIFIED="1436017722643" TEXT="type 2 diabetes"/>
+</node>
+</node>
+</node>
+<node CREATED="1436017357008" ID="ID_330424043" MODIFIED="1436017364165" TEXT="lies within our food selection"/>
+</node>
+<node CREATED="1436018455953" ID="ID_519027130" MODIFIED="1436018803411" TEXT="about">
+<node CREATED="1436018803982" ID="ID_916625369" MODIFIED="1436018805339" TEXT="structure">
+<node CREATED="1436018805854" ID="ID_379378153" MODIFIED="1436018822323" TEXT="Carbon"/>
+<node CREATED="1436018809518" ID="ID_419889620" MODIFIED="1436018820771" TEXT="Hydrogen"/>
+<node CREATED="1436018812814" ID="ID_655635246" MODIFIED="1436018817594" TEXT="Oxygen"/>
+</node>
+<node CREATED="1436018849382" ID="ID_1933366195" MODIFIED="1436018895938" TEXT="categorization">
+<node CREATED="1436018896645" ID="ID_1799285710" MODIFIED="1436018897402" TEXT="by how many glucose/sugar units are contained"/>
+<node CREATED="1436018898701" ID="ID_970609513" MODIFIED="1436019017866" VSHIFT="7">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      simple sugars
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1436019004140" ID="ID_6940298" MODIFIED="1436019012056" TEXT="on label, they are called sugars"/>
+<node CREATED="1436019137012" ID="ID_1892667569" MODIFIED="1436019142960" TEXT="mother nature created them"/>
+<node CREATED="1436018980565" ID="ID_1041213606" MODIFIED="1436019849864" TEXT="monosaccharides">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436019059460" ID="ID_928020851" MODIFIED="1436019062696" TEXT="one sugar unit"/>
+<node CREATED="1436019025700" ID="ID_1661322585" MODIFIED="1436019031817" TEXT="glucose"/>
+<node CREATED="1436019036197" ID="ID_253037738" MODIFIED="1436019038673" TEXT="galactose"/>
+<node CREATED="1436019039356" ID="ID_475748174" MODIFIED="1436019040937" TEXT="fructose"/>
+<node CREATED="1436019951885" ID="ID_279558644" MODIFIED="1436020087510" TEXT="absorption of carbohydrate must be in a monosaccharide form">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436020053021" ID="ID_528087485" MODIFIED="1436020089422" TEXT="to get it to the blood cells">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1436018975388" ID="ID_679815252" MODIFIED="1436019851143" TEXT="disaccharides">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436019067116" ID="ID_1605397910" MODIFIED="1436019182642">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      two sugar units(monosaccharides) stuck together
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1436019242531" ID="ID_1749104339" MODIFIED="1436019279623" TEXT="there&apos;s an enzyme that will split them in monosaccharides"/>
+<node CREATED="1436019076635" ID="ID_597646643" MODIFIED="1436019078312" TEXT="sucrose">
+<node CREATED="1436019088620" ID="ID_1127925" MODIFIED="1436019090360" TEXT="table sugar"/>
+<node CREATED="1436019190619" ID="ID_1621644455" MODIFIED="1436019198271" TEXT="glucose + fructose"/>
+<node CREATED="1436019287514" ID="ID_229197442" MODIFIED="1436019294871" TEXT="enz sucrase"/>
+</node>
+<node CREATED="1436019079060" ID="ID_1978494704" MODIFIED="1436019081480" TEXT="maltose">
+<node CREATED="1436019094611" ID="ID_1259147705" MODIFIED="1436019097456" TEXT="malt sugar"/>
+<node CREATED="1436019203531" ID="ID_294220177" MODIFIED="1436019206888" TEXT="glucose + glucose"/>
+<node CREATED="1436019296475" ID="ID_315103045" MODIFIED="1436019318807" TEXT="enz maltase"/>
+</node>
+<node CREATED="1436019101364" ID="ID_198859248" MODIFIED="1436019102896" TEXT="lactose">
+<node CREATED="1436019105916" ID="ID_1410797318" MODIFIED="1436019108208" TEXT="milk sugar"/>
+<node CREATED="1436019209035" ID="ID_701448578" MODIFIED="1436019219839" TEXT="glucose + galactose"/>
+<node CREATED="1436019301123" ID="ID_1429802949" MODIFIED="1436019306695" TEXT="enz lactase"/>
+</node>
+<node CREATED="1436019367002" ID="ID_1967467242" MODIFIED="1436019766391">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      high fructose corn syrup
+    </p>
+    <p>
+      <b>HFCS</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1436019383090" ID="ID_534207451" MODIFIED="1436019392766" TEXT="newcomer in the food supply"/>
+<node CREATED="1436019393401" ID="ID_1666168622" MODIFIED="1436019404702" TEXT="creation of science in 1960&apos;s"/>
+<node CREATED="1436019419065" ID="ID_1371062223" MODIFIED="1436019479799">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      fructose increased from 15%(mother natures)
+    </p>
+    <p>
+      to 42% during its first modification
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1436019498201" ID="ID_722930916" MODIFIED="1436019511669" TEXT="further enhances increased it to 55%">
+<node CREATED="1436019512896" ID="ID_881483524" MODIFIED="1436019521046" TEXT="found in all soft drinks"/>
+</node>
+<node CREATED="1436019770799" ID="ID_1735674111" MODIFIED="1436019776043" TEXT="HFCS 90">
+<node CREATED="1436019776391" ID="ID_1656617855" MODIFIED="1436019781555" TEXT="for light beverages"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1436018904613" HGAP="21" ID="ID_624596166" MODIFIED="1436019844222" VSHIFT="8">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      complex carbohydrates
+    </p>
+    <p>
+      <b>polysaccharides</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1436019864086" ID="ID_978681523" MODIFIED="1436019871275" TEXT="20 or more sugar units stuck together"/>
+<node CREATED="1436019878398" ID="ID_74431754" MODIFIED="1436020162580">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      different forms
+    </p>
+    <p>
+      organization in space
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1436020145436" ID="ID_1467410882" MODIFIED="1436020234912" TEXT="amylose">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436019882158" ID="ID_231984513" MODIFIED="1436020258400" TEXT="chain configuration"/>
+<node CREATED="1436020187092" ID="ID_1637088194" MODIFIED="1436020194713" TEXT="enzymes can only attack the ends of the chain"/>
+</node>
+<node CREATED="1436020208524" ID="ID_787264235" MODIFIED="1436020237052" TEXT="amylopectin">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436019884414" ID="ID_134007961" MODIFIED="1436020254281" TEXT="branch configuration"/>
+<node CREATED="1436020239004" ID="ID_285778597" MODIFIED="1436020275616" TEXT="more spots for the enzymes to attack"/>
+<node CREATED="1436020293779" ID="ID_20598407" MODIFIED="1436020445750" TEXT="water can be held in between branches"/>
+</node>
+</node>
+<node CREATED="1436019917909" ID="ID_1051040556" MODIFIED="1436019929707" TEXT="given the length of the compound">
+<node CREATED="1436019979326" ID="ID_1768508558" MODIFIED="1436019994914" TEXT="it takes longer to break the molecules down"/>
+<node CREATED="1436020114693" ID="ID_760279486" MODIFIED="1436020120289" TEXT="digestion takes longer"/>
+</node>
+<node CREATED="1436020463833" ID="ID_1694409943" MODIFIED="1436020479342" TEXT="foods">
+<node CREATED="1436020479914" ID="ID_888178289" MODIFIED="1436020481230" TEXT="bread"/>
+<node CREATED="1436020481930" ID="ID_1830157528" MODIFIED="1436020767124" TEXT="cereals"/>
+<node CREATED="1436020484058" ID="ID_231466605" MODIFIED="1436020487038" TEXT="fruits"/>
+<node CREATED="1436020583745" ID="ID_1627642446" MODIFIED="1436020598989" TEXT="also contain a combination of mono and di"/>
+<node CREATED="1436020731672" ID="ID_1074879337" MODIFIED="1436020950822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      slice of white bread
+    </p>
+    <p style="text-align: center">
+      vs
+    </p>
+    <p style="text-align: center">
+      slice of 100% whole grains
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436020736568" ID="ID_613402238" MODIFIED="1436020793556" TEXT="carbo structure is the same"/>
+<node CREATED="1436020886583" ID="ID_1475251946" MODIFIED="1436020898091" TEXT="but they behave differently">
+<node CREATED="1436020979430" ID="ID_363339208" MODIFIED="1436020989979" TEXT="nutrients are lost during refining">
+<node CREATED="1436021003798" ID="ID_304598099" MODIFIED="1436021005954" TEXT="fibers"/>
+<node CREATED="1436021000118" ID="ID_428822" MODIFIED="1436021003131" TEXT="magnesium">
+<node CREATED="1436021020670" ID="ID_1691035459" MODIFIED="1436021673310" TEXT="surveys show more magnesium, less type 2 diabetes"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1436021698457" ID="ID_1319505546" MODIFIED="1436021700589" TEXT="functions">
+<node CREATED="1436021724393" ID="ID_1452671169" MODIFIED="1436021728486" TEXT="provides energy">
+<node CREATED="1436021738416" ID="ID_1662520803" MODIFIED="1436021743590" TEXT="4 calories/g"/>
+</node>
+<node CREATED="1436021759841" ID="ID_1103118455" MODIFIED="1436033172256">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      prevents <b>ketosis</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1436021773496" ID="ID_912008189" MODIFIED="1436021855432" TEXT="carbo is need to burn fat supplies completely">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1436021815041" ID="ID_1160731709" MODIFIED="1436021853344" TEXT="due to absence of carbo, fat breakdown is incomplete">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436021845361" ID="ID_120063381" LINK="#ID_1240751589" MODIFIED="1436033040039">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      forming <b>ketone</b>&#160;bodies
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1436021891776" ID="ID_1365225354" MODIFIED="1436021897020" TEXT="waste product"/>
+<node CREATED="1436021939824" ID="ID_708141524" MODIFIED="1436021943692" TEXT="not great for health"/>
+<node CREATED="1436021946239" ID="ID_769444035" MODIFIED="1436021948620" TEXT="can cause">
+<node CREATED="1436021949151" ID="ID_555724949" MODIFIED="1436021951900" TEXT="nausea"/>
+<node CREATED="1436021955368" ID="ID_529083541" MODIFIED="1436021960652" TEXT="feel sick to your stomach"/>
+<node CREATED="1436033013313" ID="ID_227087481" MODIFIED="1436033016710" TEXT="headache"/>
+</node>
+</node>
+</node>
+<node CREATED="1436033144809" ID="ID_86060788" MODIFIED="1436033185764" TEXT="caused by a carbo level &lt; 130g/day"/>
+</node>
+<node COLOR="#338800" CREATED="1436021972280" ID="ID_1622659833" MODIFIED="1436021981359" TEXT="spares protein">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436022244869" ID="ID_26320336" MODIFIED="1436022250898" TEXT="carbo protects protein"/>
+<node CREATED="1436022269613" ID="ID_945233447" MODIFIED="1436022314133" TEXT="inadequate amount of carbo">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436022290877" ID="ID_1598616777" MODIFIED="1436022314133" TEXT="go to plan b to provide energy">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436022305037" ID="ID_322642918" MODIFIED="1436022314133" TEXT="consume protein">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1436022383668" ID="ID_1831260890" MODIFIED="1436022428476" TEXT="why is protein broken down?">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436022397460" ID="ID_1090669967" MODIFIED="1436024878896" TEXT="protein can serve as a source of carbo">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436022414780" ID="ID_320504845" MODIFIED="1436022428477" TEXT="can be sent to the liver and turned into carbo">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1436024889579" ID="ID_1384182724" MODIFIED="1436027678027" TEXT="it should be 50% of the american diet">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1436024940019" ID="ID_1135251729" MODIFIED="1436024959810" TEXT="choose a food with carbo and whole grain">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1436027694927" ID="ID_1102543944" MODIFIED="1436027699515" TEXT="effects">
+<node CREATED="1436027709023" ID="ID_631167565" MODIFIED="1436027787290" TEXT="recommended 10% of total calories coming from sugar">
+<node CREATED="1436027792894" ID="ID_1025760491" MODIFIED="1436027797115" TEXT="is US, 16%"/>
+<node CREATED="1436027808542" ID="ID_35294761" MODIFIED="1436027825787" TEXT="depends on age or who you are"/>
+</node>
+<node CREATED="1436027844326" ID="ID_303582643" MODIFIED="1436027878095" TEXT="sweet drinks">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436027849582" ID="ID_1075598846" MODIFIED="1436027864186" TEXT="can cause obesity to children"/>
+<node COLOR="#ff0000" CREATED="1436027870149" ID="ID_674085011" MODIFIED="1436030752913" TEXT="the volume needs to be controlled">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1436030457683" ID="ID_47378797" MODIFIED="1436030550288" TEXT="watch out also for">
+<node CREATED="1436030550922" ID="ID_499959040" MODIFIED="1436030554911" TEXT="fruit punch"/>
+<node CREATED="1436030555523" ID="ID_163658278" MODIFIED="1436030562199" TEXT="lemonade"/>
+<node CREATED="1436030562770" ID="ID_1801817713" MODIFIED="1436030565639" TEXT="honey"/>
+<node CREATED="1436030579386" ID="ID_460439175" MODIFIED="1436030589911" TEXT="sweet mixes with alcoholic beverages">
+<node CREATED="1436030602682" ID="ID_1453771724" MODIFIED="1436030606583" TEXT="see 16:28"/>
+</node>
+<node CREATED="1436030646658" ID="ID_1002474911" MODIFIED="1436030648911" TEXT="juice">
+<node CREATED="1436030656082" ID="ID_162912278" MODIFIED="1436030661775" TEXT="it should have 100%">
+<node CREATED="1436030669865" ID="ID_1968233107" MODIFIED="1436030675314" TEXT="not a fruit drink!">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1436030682881" ID="ID_1907998994" MODIFIED="1436030694711" TEXT="drink no more than 4-6 ounces/day">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1436030516178" ID="ID_1094505010" MODIFIED="1436030520047" TEXT="reduce consumption"/>
+<node CREATED="1436030536819" ID="ID_1709561106" MODIFIED="1436030538912" TEXT="honey"/>
+</node>
+<node CREATED="1436030773305" ID="ID_1646206834" MODIFIED="1436030835399">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      add more foods with natural fibers
+    </p>
+    <p>
+      and complex carbo
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1436030802321" ID="ID_1555690275" MODIFIED="1436030806925" TEXT="vegetables"/>
+<node CREATED="1436030807976" ID="ID_1361711679" MODIFIED="1436030809793" TEXT="peas"/>
+<node CREATED="1436030815073" ID="ID_682491153" MODIFIED="1436030817445" TEXT="beans"/>
+</node>
+</node>
+<node CREATED="1436030879312" ID="ID_1396395068" MODIFIED="1436030881172" TEXT="tools">
+<node CREATED="1436030932704" ID="ID_873645971" MODIFIED="1436030995852" TEXT="glycemic index">
+<node CREATED="1436030947248" ID="ID_626943765" MODIFIED="1436031018804" TEXT="how quickly your blood sugar rises after eating a carbo food"/>
+<node CREATED="1436031580155" ID="ID_1437534484" MODIFIED="1436031586960" TEXT="uses as reference">
+<node CREATED="1436031587372" ID="ID_1776333777" MODIFIED="1436031590440" TEXT="white bread"/>
+<node CREATED="1436031599219" ID="ID_1494476141" MODIFIED="1436031602048" TEXT="pure glucose"/>
+</node>
+<node COLOR="#ff0000" CREATED="1436031637507" ID="ID_484869821" MODIFIED="1436032486749" TEXT="those who eat  a diet of high glycemic index carbos">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1436031667114" ID="ID_968565830" MODIFIED="1436032484405" TEXT="have the greatest risk of chronic diseases">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436032805554" ID="ID_1364037171" MODIFIED="1436032807840" TEXT="obesity"/>
+<node CREATED="1436032808443" ID="ID_1227948393" MODIFIED="1436032813687" TEXT="hearth disease"/>
+<node CREATED="1436032814523" ID="ID_34277686" MODIFIED="1436032818191" TEXT="type 2 diabetes"/>
+<node CREATED="1436032821330" ID="ID_978822709" MODIFIED="1436032823039" TEXT="cataracts"/>
+</node>
+<node CREATED="1436031745298" ID="ID_284776629" MODIFIED="1436031762471" TEXT="sugar levels increase a lot in blood"/>
+<node CREATED="1436031721746" ID="ID_726016518" MODIFIED="1436031740967" TEXT="due to the amount of insulin that needs to be produced "/>
+</node>
+<node COLOR="#ff0000" CREATED="1436032892666" ID="ID_1620472745" MODIFIED="1436032920450" TEXT="tho who eat a diet of low glycemic index carbos">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436032921690" ID="ID_1761061564" MODIFIED="1436032937718" TEXT="fatigue"/>
+<node CREATED="1436032940730" ID="ID_1419264804" MODIFIED="1436032943022" TEXT="low energy"/>
+<node CREATED="1436032946921" ID="ID_735911898" MODIFIED="1436032951126" TEXT="irritability"/>
+<node CREATED="1436032968818" ID="ID_1240751589" LINK="#ID_120063381" MODIFIED="1436033086220" TEXT="produce ketone bodies"/>
+</node>
+<node CREATED="1436031805835" ID="ID_1765803530" MODIFIED="1436031818698">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      factors influencing the
+    </p>
+    <p>
+      glycemic index
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1436031936169" ID="ID_93568422" MODIFIED="1436031946941" TEXT="see example at 21:09">
+<node CREATED="1436031958609" ID="ID_1918162474" MODIFIED="1436031962669" TEXT="whitebread">
+<node CREATED="1436031963121" ID="ID_1798456482" MODIFIED="1436031967085" TEXT="high index"/>
+<node CREATED="1436031969793" ID="ID_777550676" MODIFIED="1436032018084" TEXT="but mixed on a hamburger bun"/>
+<node CREATED="1436032002136" ID="ID_646136479" MODIFIED="1436032003814" TEXT="or with fat"/>
+<node CREATED="1436032036888" ID="ID_1225646965" MODIFIED="1436032052229" TEXT="leaving the stomach slowly"/>
+<node CREATED="1436032019424" ID="ID_1570431599" MODIFIED="1436032060333" TEXT="therefore results in a low index"/>
+</node>
+</node>
+<node CREATED="1436031856993" ID="ID_909678428" MODIFIED="1436031872134" TEXT="amylose carbo">
+<node CREATED="1436031875529" ID="ID_672938479" MODIFIED="1436031877757" TEXT="low index"/>
+</node>
+<node CREATED="1436031879433" ID="ID_1447771512" MODIFIED="1436031893270" TEXT="amylopectin carbo">
+<node CREATED="1436031893817" ID="ID_1025509408" MODIFIED="1436031896429" TEXT="high index"/>
+<node CREATED="1436031898218" ID="ID_812234116" MODIFIED="1436031901870" TEXT="due to the structure"/>
+</node>
+<node CREATED="1436032108624" ID="ID_1992908740" MODIFIED="1436032137080" TEXT="white vs red potato">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436032148583" ID="ID_1502689902" MODIFIED="1436032150460" TEXT="red">
+<node CREATED="1436032150823" ID="ID_644005373" MODIFIED="1436032154068" TEXT="has more amylose"/>
+</node>
+<node CREATED="1436032155183" ID="ID_1877896916" MODIFIED="1436032156164" TEXT="white">
+<node CREATED="1436032156927" ID="ID_1535111408" MODIFIED="1436032165276" TEXT="has more amylopectin"/>
+</node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1436032178632" ID="ID_779012948" MODIFIED="1436032242422" TEXT="low index">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436032234879" ID="ID_1427131833" MODIFIED="1436032239672" TEXT="minimal processed foods">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436032254815" ID="ID_345193198" MODIFIED="1436032260579" TEXT="the more hands that touch it"/>
+<node CREATED="1436032261166" ID="ID_1661475071" MODIFIED="1436032267411" TEXT="the higher the index!"/>
+</node>
+<node CREATED="1436032731891" ID="ID_121233086" MODIFIED="1436032733272" TEXT="examples">
+<node CREATED="1436032181079" ID="ID_1713730448" MODIFIED="1436032183340" TEXT="oat meal">
+<node CREATED="1436032327310" ID="ID_671134545" MODIFIED="1436032329154" TEXT="58"/>
+</node>
+<node CREATED="1436032184039" ID="ID_23839394" MODIFIED="1436032185980" TEXT="whole grain"/>
+<node CREATED="1436032190439" ID="ID_1490112108" MODIFIED="1436032193395" TEXT="non-tropical foods">
+<node CREATED="1436032194111" ID="ID_1568447858" MODIFIED="1436032194907" TEXT="apple">
+<node CREATED="1436032369869" ID="ID_1613297701" MODIFIED="1436032371331" TEXT="38"/>
+</node>
+<node CREATED="1436032198599" ID="ID_1592684622" MODIFIED="1436032199859" TEXT="pears"/>
+<node CREATED="1436032200639" ID="ID_1897412665" MODIFIED="1436032227035" TEXT="legumes"/>
+</node>
+<node CREATED="1436032401325" ID="ID_96560803" MODIFIED="1436032403457" TEXT="lentils">
+<node CREATED="1436032404181" ID="ID_1124243753" MODIFIED="1436032405619" TEXT="29"/>
+</node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1436032596804" ID="ID_707937195" MODIFIED="1436032603380" TEXT="high index">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436032690620" ID="ID_1542192757" MODIFIED="1436032696824" TEXT="used by athletes"/>
+<node CREATED="1436032337039" ID="ID_94356574" MODIFIED="1436032339723" TEXT="cornflakes">
+<node CREATED="1436032340163" ID="ID_1400238394" MODIFIED="1436032341626" TEXT="81"/>
+</node>
+<node CREATED="1436032712115" ID="ID_464806662" MODIFIED="1436032713320" TEXT="examples">
+<node CREATED="1436032420693" ID="ID_1482471175" MODIFIED="1436032423250" TEXT="jelly beans">
+<node CREATED="1436032425734" ID="ID_1212853287" MODIFIED="1436032427370" TEXT="78"/>
+</node>
+<node CREATED="1436032411374" ID="ID_1696563989" MODIFIED="1436032413762" TEXT="angel food cake">
+<node CREATED="1436032414301" ID="ID_997667089" MODIFIED="1436032416138" TEXT="67"/>
+</node>
+<node CREATED="1436032377038" ID="ID_1657348274" MODIFIED="1436032380978" TEXT="baked potato">
+<node CREATED="1436032381717" ID="ID_1609785469" MODIFIED="1436032385850" TEXT="85"/>
+</node>
+<node CREATED="1436032753075" ID="ID_910084667" MODIFIED="1436032757232" TEXT="sports drinks"/>
+</node>
+</node>
+<node CREATED="1436032519509" ID="ID_1526705190" MODIFIED="1436032578604" TEXT="consume">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436032529037" ID="ID_1567963079" MODIFIED="1436032548393" TEXT="increase freash fruits and vegetable"/>
+<node CREATED="1436032552677" ID="ID_205154724" MODIFIED="1436032554889" TEXT="whole grains"/>
+<node CREATED="1436032555740" ID="ID_1331059795" MODIFIED="1436032569169" TEXT="low glycemic carbos"/>
+</node>
+</node>
+</node>
+<node CREATED="1436033226591" ID="ID_761409465" MODIFIED="1436033228717" TEXT="FAQ">
+<node CREATED="1436033235320" ID="ID_1148626895" MODIFIED="1436033242492" TEXT="What about sugar substitutes?">
+<node CREATED="1436033251208" ID="ID_75724997" MODIFIED="1436033252932" TEXT="like">
+<node CREATED="1436033253471" ID="ID_67920700" MODIFIED="1436033255436" TEXT="splenda"/>
+<node CREATED="1436033256063" ID="ID_90244378" MODIFIED="1436033281220" TEXT="sucralose"/>
+<node CREATED="1436033300048" ID="ID_941625745" MODIFIED="1436033319604" TEXT="aspartame"/>
+<node CREATED="1436033344847" ID="ID_1820645569" MODIFIED="1436033427171" TEXT="saffron"/>
+</node>
+<node CREATED="1436033455199" ID="ID_132684941" MODIFIED="1436033465507" TEXT="people might be alergic"/>
+<node CREATED="1436033466270" ID="ID_1917074211" MODIFIED="1436033471650" TEXT="they are considered safe"/>
+<node CREATED="1436033475598" ID="ID_1519552953" MODIFIED="1436033517222" TEXT="To not be used by">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436033489197" ID="ID_1331762145" MODIFIED="1436033497538" TEXT="two years old"/>
+<node CREATED="1436033498246" ID="ID_704546404" MODIFIED="1436033507331" TEXT="pregnant women"/>
+</node>
+</node>
+<node CREATED="1436033525318" ID="ID_165774396" MODIFIED="1436033530274" TEXT="Should I drink diet soda?">
+<node CREATED="1436033530950" ID="ID_514857039" MODIFIED="1436033539869" TEXT="It&apos;s better to stick with plain water">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1436033548854" ID="ID_820398771" MODIFIED="1436033562525" TEXT="in moderation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436033572357" ID="ID_710920754" MODIFIED="1436033584213" TEXT="no more than two diet soft drinks per day">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1436033601461" ID="ID_861870771" MODIFIED="1436033609185" TEXT="What about drinking juice?">
+<node CREATED="1436033611108" ID="ID_1251484372" MODIFIED="1436033806785" TEXT="like 4 ounces of grapefruit juice">
+<node CREATED="1436033687693" ID="ID_1655248599" MODIFIED="1436033694337" TEXT="for increased blood pressure"/>
+</node>
+<node CREATED="1436033660148" ID="ID_1202345206" MODIFIED="1436033712728" TEXT="or a glass of red wine">
+<node CREATED="1436033682493" ID="ID_1042299520" MODIFIED="1436033686625" TEXT="for hearth disease"/>
+</node>
+<node CREATED="1436033735796" ID="ID_186711523" MODIFIED="1436033842663" TEXT="No">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436033738333" ID="ID_1514552123" MODIFIED="1436033754981" TEXT="you can get the same effect from the whole fruit">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436033844196" ID="ID_343409189" MODIFIED="1436033851032" TEXT="and get a lower glycemic index"/>
+</node>
+<node CREATED="1436033774212" ID="ID_263643631" MODIFIED="1436033780964" TEXT="have a nice bowl of grapes">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1436033824980" ID="ID_1977028152" MODIFIED="1436033829948" TEXT="or peel a grapefruit">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
 </node>
 </node>
 </node>
