@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1434603785045" ID="ID_1079687324" MODIFIED="1436471271669">
+<node CREATED="1434603785045" ID="ID_1079687324" MODIFIED="1436985529867">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15,7 +15,7 @@
   </body>
 </html></richcontent>
 <font NAME="Verdana" SIZE="12"/>
-<node CREATED="1434603815492" HGAP="19" ID="ID_1719866592" MODIFIED="1436471271669" POSITION="right" TEXT="Why we eat what we do" VSHIFT="-8">
+<node CREATED="1434603815492" HGAP="18" ID="ID_1719866592" MODIFIED="1436983464081" POSITION="right" TEXT="Why we eat what we do" VSHIFT="-1">
 <font NAME="Verdana" SIZE="12"/>
 <icon BUILTIN="full-1"/>
 </node>
@@ -118,17 +118,17 @@
 </node>
 </node>
 </node>
-<node CREATED="1434916361239" ID="ID_1307612804" MODIFIED="1436811681115" POSITION="right" VSHIFT="4">
+<node CREATED="1434916361239" FOLDED="true" HGAP="23" ID="ID_1307612804" MODIFIED="1437117321607" POSITION="right" VSHIFT="-2">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      Our Underappreciated
+    <p style="text-align: center">
+      Our underappreciated
     </p>
-    <p>
-      Digestive Tract
+    <p style="text-align: center">
+      digestive tract
     </p>
   </body>
 </html></richcontent>
@@ -497,7 +497,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435522386520" FOLDED="true" HGAP="19" ID="ID_1715553245" MODIFIED="1436471287660" POSITION="left" TEXT="It&apos;s all about the calories" VSHIFT="3">
+<node CREATED="1435522386520" FOLDED="true" HGAP="18" ID="ID_1715553245" MODIFIED="1436983460880" POSITION="left" TEXT="It&apos;s all about the calories" VSHIFT="-1">
 <font NAME="Verdana" SIZE="12"/>
 <icon BUILTIN="full-4"/>
 <node CREATED="1435522479188" ID="ID_1097873466" MODIFIED="1435522573868" TEXT="Calories balance rules the day"/>
@@ -784,7 +784,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435987667945" FOLDED="true" HGAP="23" ID="ID_649809097" MODIFIED="1436471271664" POSITION="right" TEXT="Hydration" VSHIFT="14">
+<node CREATED="1435987667945" FOLDED="true" HGAP="23" ID="ID_649809097" MODIFIED="1437241059975" POSITION="right" TEXT="Hydration" VSHIFT="1">
 <font NAME="Verdana" SIZE="12"/>
 <icon BUILTIN="full-5"/>
 <node CREATED="1435987852677" ID="ID_654295025" MODIFIED="1435987854610" TEXT="body">
@@ -1137,7 +1137,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1436015749784" FOLDED="true" HGAP="18" ID="ID_1083124967" MODIFIED="1436471281778" POSITION="left" VSHIFT="10">
+<node CREATED="1436015749784" FOLDED="true" HGAP="18" ID="ID_1083124967" MODIFIED="1437388623082" POSITION="left" VSHIFT="5">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1642,7 +1642,7 @@
 <node CREATED="1436033660148" ID="ID_1202345206" MODIFIED="1436033712728" TEXT="or a glass of red wine">
 <node CREATED="1436033682493" ID="ID_1042299520" MODIFIED="1436033686625" TEXT="for hearth disease"/>
 </node>
-<node CREATED="1436033735796" ID="ID_186711523" MODIFIED="1436033842663" TEXT="No">
+<node CREATED="1436033735796" ID="ID_186711523" MODIFIED="1437240851668" TEXT="No">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1436033738333" ID="ID_1514552123" MODIFIED="1436033754981" TEXT="you can get the same effect from the whole fruit">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1658,7 +1658,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1436114604462" FOLDED="true" HGAP="22" ID="ID_198302388" MODIFIED="1436471292147" POSITION="right" TEXT="Facts about fiber" VSHIFT="9">
+<node CREATED="1436114604462" FOLDED="true" HGAP="22" ID="ID_198302388" MODIFIED="1437241618903" POSITION="right" TEXT="Facts about fiber" VSHIFT="7">
 <font NAME="Verdana" SIZE="12"/>
 <icon BUILTIN="full-7"/>
 <node CREATED="1436116474483" ID="ID_1677476451" MODIFIED="1436295265630" TEXT="What is?">
@@ -1826,7 +1826,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1436299037886" ID="ID_1232512420" MODIFIED="1436299043690" TEXT="foods with high fiber">
+<node CREATED="1436299037886" ID="ID_1232512420" MODIFIED="1437241504661" TEXT="foods with high fiber">
 <node CREATED="1436299044349" ID="ID_631259312" MODIFIED="1436299048170" TEXT="raspberries">
 <node CREATED="1436299048557" ID="ID_716372058" MODIFIED="1436299058786" TEXT="1 cup = 8 g"/>
 </node>
@@ -1845,7 +1845,9 @@
 </node>
 </node>
 <node CREATED="1436299210597" ID="ID_187537736" MODIFIED="1436299224313" TEXT="Tips to increase fiber">
-<node CREATED="1436299224837" ID="ID_1382587684" MODIFIED="1436299241737" TEXT="eat fruits and vegetables with the peel"/>
+<node CREATED="1436299224837" ID="ID_1382587684" MODIFIED="1437241549154" TEXT="eat fruits and vegetables with the peel">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node CREATED="1436299253884" ID="ID_33817875" MODIFIED="1436299286744" TEXT="add lentils and black beans to casseroles, salads and mixed dishes">
 <node CREATED="1436299298140" ID="ID_413609326" MODIFIED="1436299302676" TEXT="go to a salad bar">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1859,7 +1861,7 @@
 <node CREATED="1436299627962" ID="ID_1064811395" MODIFIED="1436299658853" TEXT="don&apos;t increase the income of fiber rapidly"/>
 </node>
 </node>
-<node CREATED="1436470908050" ID="ID_953443866" MODIFIED="1436811659747" POSITION="left" TEXT="Protein - An Indispensable Nutrient" VSHIFT="14">
+<node CREATED="1436470908050" FOLDED="true" HGAP="22" ID="ID_953443866" MODIFIED="1437385202581" POSITION="left" TEXT="Protein - An Indispensable Nutrient" VSHIFT="5">
 <font NAME="Verdana" SIZE="12"/>
 <icon BUILTIN="full-8"/>
 <node CREATED="1436470988033" ID="ID_11809653" MODIFIED="1436471271660" TEXT="History">
@@ -1890,8 +1892,7 @@
       AAs
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="Verdana" SIZE="12"/>
 <node CREATED="1436471202415" ID="ID_1109124073" MODIFIED="1436471271654" TEXT="building block of proteins">
 <font NAME="Verdana" SIZE="12"/>
@@ -1929,8 +1930,7 @@
       them hence it needs them from outside
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1436811886776" ID="ID_608753698" MODIFIED="1436811888813" TEXT="Alanine"/>
 <node CREATED="1436811889672" ID="ID_657660636" MODIFIED="1436811892140" TEXT="Arginine"/>
@@ -2006,8 +2006,7 @@
       <font face="Verdana">Functions</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1436812329332" ID="ID_150956803" MODIFIED="1436813813995">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2021,8 +2020,7 @@
       <b>designed for this</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1436812352535" ID="ID_656295281" MODIFIED="1436812354617" TEXT="infancy"/>
 <node CREATED="1436812369716" ID="ID_874642756" MODIFIED="1436812371329" TEXT="surgery"/>
 <node CREATED="1436812399844" ID="ID_828582347" MODIFIED="1436812403689" TEXT="structural proteins">
@@ -2137,8 +2135,7 @@
       or it's in short supply
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="Verdana" SIZE="12"/>
 <node CREATED="1436814399814" ID="ID_388473369" MODIFIED="1436814405999" TEXT="protein synthesis stops">
 <font BOLD="true" NAME="Verdana" SIZE="12"/>
@@ -2214,6 +2211,648 @@
 <font BOLD="true" NAME="Verdana" SIZE="12"/>
 </node>
 </node>
+</node>
+<node CREATED="1436983444215" FOLDED="true" HGAP="21" ID="ID_1287619515" MODIFIED="1437385211833" POSITION="right" TEXT="Fat, fat everywhere!" VSHIFT="6">
+<icon BUILTIN="full-9"/>
+<node CREATED="1436985688149" ID="ID_16486462" MODIFIED="1437229823532" TEXT="Terminology">
+<node CREATED="1436985833190" ID="ID_646426749" MODIFIED="1437229849868" TEXT="fats">
+<node CREATED="1436985786088" ID="ID_382504" MODIFIED="1436985794461" TEXT="also known as lipids"/>
+<node CREATED="1436985820735" ID="ID_767570320" MODIFIED="1437229849870" TEXT="most energy dense">
+<node CREATED="1436985846824" ID="ID_424730684" MODIFIED="1436985858022" TEXT="9 calories/g"/>
+</node>
+<node CREATED="1436985947619" ID="ID_1191920514" MODIFIED="1437229849871" TEXT="visible">
+<node CREATED="1436985951291" ID="ID_59675042" MODIFIED="1436985959934" TEXT="mayonnaise"/>
+<node CREATED="1436985961992" ID="ID_1739999888" MODIFIED="1436985968525" TEXT="margarine"/>
+<node CREATED="1436985970731" ID="ID_1337798743" MODIFIED="1436985975698" TEXT="cooking oil"/>
+</node>
+<node CREATED="1436985979331" ID="ID_784356095" MODIFIED="1437229849872" TEXT="invisible">
+<node CREATED="1436985985637" ID="ID_6883111" MODIFIED="1436985988421" TEXT="cookies"/>
+<node CREATED="1436985996622" ID="ID_1956963673" MODIFIED="1436985998995" TEXT="muffins"/>
+<node CREATED="1436986000634" ID="ID_1299054132" MODIFIED="1437229849872" TEXT="nuts">
+<node COLOR="#ff0000" CREATED="1436986022712" ID="ID_1903111806" MODIFIED="1436987776595" TEXT="60-70% fat">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1436986005737" ID="ID_441611824" MODIFIED="1436986007308" TEXT="deserts"/>
+<node CREATED="1436986008818" ID="ID_590499927" MODIFIED="1436986009944" TEXT="cheese"/>
+</node>
+</node>
+<node CREATED="1436985913979" ID="ID_155639855" MODIFIED="1437229849874">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      chemical
+    </p>
+    <p>
+      structure
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1436986049287" ID="ID_705750061" MODIFIED="1437229849875" TEXT="3 elements">
+<node CREATED="1436986063503" ID="ID_1435577441" MODIFIED="1436986065014" TEXT="carbon"/>
+<node CREATED="1436986082394" ID="ID_1119229993" MODIFIED="1436986085585" TEXT="hydrogen"/>
+<node CREATED="1436986087834" ID="ID_1780953677" MODIFIED="1436986090987" TEXT="oxygen"/>
+</node>
+<node CREATED="1436986104411" ID="ID_1110448645" MODIFIED="1437229849876" TEXT="fats are structurally different">
+<node CREATED="1436986121688" ID="ID_731500831" MODIFIED="1436986128213" TEXT="behaving in different ways"/>
+</node>
+<node CREATED="1436986180368" ID="ID_86849939" MODIFIED="1437229849876" TEXT="dietary fats">
+<node CREATED="1436986185622" ID="ID_1475961766" MODIFIED="1436986203405" TEXT="made up of 3 fatty acids"/>
+<node CREATED="1436986276603" ID="ID_1827095248" MODIFIED="1436986292775" TEXT="stuck to a glycerol backbone"/>
+<node CREATED="1436986303923" ID="ID_785906423" MODIFIED="1436986306823" TEXT="looks like an E"/>
+</node>
+</node>
+<node CREATED="1436986327981" ID="ID_906068994" MODIFIED="1437229849877" TEXT="fatty acids">
+<node CREATED="1436986339896" ID="ID_1933936281" MODIFIED="1437240648640" TEXT="saturated">
+<node CREATED="1436986436475" ID="ID_1876809319" MODIFIED="1437229849883">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      no double bonds&#160;&#160;exist
+    </p>
+    <p>
+      between the carbon atoms
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1436986505400" ID="ID_327758020" MODIFIED="1436986544821">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      the whole molecule is
+    </p>
+    <p>
+      saturated with hydrogen ions
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1436986558507" ID="ID_803597615" MODIFIED="1436986565134" TEXT="white, hard and solid"/>
+<node COLOR="#ff0000" CREATED="1436986630678" ID="ID_22980926" MODIFIED="1436987749179" TEXT="can raise the blood cholesterol ">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#ff0000" CREATED="1436987692644" ID="ID_1862222549" MODIFIED="1436987748788" TEXT="contribute to hearth disease">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1436986346716" FOLDED="true" ID="ID_50351784" MODIFIED="1437240617281" TEXT="unsaturated">
+<node CREATED="1436986671498" ID="ID_626725542" MODIFIED="1437229849889">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      double bonds exist between
+    </p>
+    <p>
+      the carbon molecules
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1436986740677" ID="ID_1931399850" MODIFIED="1436986753362">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      can combine with oxygen
+    </p>
+    <p>
+      and become rancid
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1436986804332" ID="ID_57936620" MODIFIED="1437229849893" TEXT="mono unsaturated">
+<node CREATED="1436986812897" ID="ID_500262145" MODIFIED="1436986818191" TEXT="one double bond"/>
+<node CREATED="1436987108175" ID="ID_1101187385" MODIFIED="1436987324314">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      liquid at room temperature <b>but it gets </b>
+    </p>
+    <p>
+      <b>thick or viscous in the refrigerator</b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1436987251457" ID="ID_1544987546" MODIFIED="1437229849894" TEXT="examples">
+<node CREATED="1436987255761" ID="ID_111158123" MODIFIED="1436987259684" TEXT="peanut oil"/>
+<node CREATED="1436987261233" ID="ID_295707770" MODIFIED="1436987263223" TEXT="olive oil"/>
+</node>
+<node COLOR="#338800" CREATED="1436986895779" ID="ID_1648464471" MODIFIED="1437229849895" TEXT="lower blood cholesterol">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1436987073165" ID="ID_1537612936" MODIFIED="1437113663940" TEXT="hearth healthy"/>
+</node>
+</node>
+<node CREATED="1436986821314" ID="ID_1862545497" MODIFIED="1437229849897" TEXT="poly unsaturated">
+<node CREATED="1436986831699" ID="ID_1913433660" MODIFIED="1436986847042" TEXT="two or more double bonds"/>
+<node CREATED="1436986862820" ID="ID_1360137197" MODIFIED="1437113662418" STYLE="fork" TEXT="liquid at room temperature"/>
+<node COLOR="#338800" CREATED="1436986895779" ID="ID_676362455" MODIFIED="1437229849897" TEXT="lower blood cholesterol">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1436987073165" ID="ID_303017356" MODIFIED="1437113659315" TEXT="hearth healthy"/>
+</node>
+<node CREATED="1436986916810" ID="ID_1562762306" MODIFIED="1437229849898" TEXT="examples">
+<node CREATED="1436986924428" ID="ID_1588938004" MODIFIED="1436986928114" TEXT="corn oil"/>
+<node CREATED="1436986930158" ID="ID_463076893" MODIFIED="1436986934249" TEXT="sun flower oil"/>
+<node CREATED="1436986981724" ID="ID_628534317" MODIFIED="1436986988506" TEXT="safflower oil"/>
+</node>
+</node>
+<node CREATED="1436987375982" ID="ID_410491526" MODIFIED="1437229849902" TEXT="trans fats">
+<node CREATED="1436987388728" ID="ID_1533026619" MODIFIED="1437229849903">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      unsaturated vegetable oils that
+    </p>
+    <p>
+      manufacturers try to make more solid
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1436987434006" ID="ID_838534706" MODIFIED="1436987441438" TEXT="so it lasts longer">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1436987465408" ID="ID_1813608294" MODIFIED="1437229849910" TEXT="through hydrogenation">
+<node CREATED="1436987491204" ID="ID_1689987524" MODIFIED="1436987498399" TEXT="add hydrogen to the double bonds"/>
+<node CREATED="1436987508441" ID="ID_1949370053" MODIFIED="1437229849911">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      but twist the molecule,
+    </p>
+    <p>
+      changing the shape
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1436987546896" ID="ID_338260568" MODIFIED="1436987553666" TEXT="which changes the function"/>
+</node>
+</node>
+</node>
+<node CREATED="1436987564902" ID="ID_317838018" MODIFIED="1437229849911" TEXT="also called">
+<node CREATED="1436987632624" ID="ID_1832452741" MODIFIED="1436987634617" TEXT="partially hydrogenated fats">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1436987657235" ID="ID_1768163704" MODIFIED="1437229849912" TEXT="examples">
+<node CREATED="1436987662386" ID="ID_1512452834" MODIFIED="1436987665636" TEXT="muffins"/>
+<node CREATED="1436987668294" ID="ID_1006497065" MODIFIED="1436987670849" TEXT="cookies"/>
+</node>
+<node COLOR="#ff0000" CREATED="1436987692644" ID="ID_1083747836" MODIFIED="1436987744725" TEXT="contribute to hearth disease">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#ff0000" CREATED="1436987726694" ID="ID_1210431594" MODIFIED="1436987743807" TEXT="keep away since you don&apos;t need them">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1436987827962" FOLDED="true" ID="ID_1586688893" MODIFIED="1437240614847" TEXT="triglycerides">
+<node CREATED="1436987848822" ID="ID_440372072" MODIFIED="1436987869691" TEXT="&gt; 90% of the fats in the body"/>
+<node CREATED="1436987899230" ID="ID_755198925" MODIFIED="1436987903203" TEXT="most of the fat in food"/>
+</node>
+</node>
+<node CREATED="1436988551115" ID="ID_776335310" MODIFIED="1437229849918" TEXT="cholesterol">
+<node CREATED="1436988675223" ID="ID_1952745800" MODIFIED="1436988689405" TEXT="doesn&apos;t contain fatty acids"/>
+<node CREATED="1436988719924" ID="ID_593589922" MODIFIED="1436988723593" TEXT="can be consumed"/>
+<node CREATED="1436988726113" ID="ID_1756341349" MODIFIED="1437229849918" TEXT="or made by the body">
+<node CREATED="1436988739688" ID="ID_423545215" MODIFIED="1436988752692" TEXT="800-1500 mg/day"/>
+</node>
+<node CREATED="1436988777118" ID="ID_81726931" MODIFIED="1437229849921" TEXT="Why do we need it?">
+<node CREATED="1436988804784" ID="ID_1494638356" MODIFIED="1437229849921" TEXT="it builds plasma membranes">
+<node CREATED="1436988823673" ID="ID_1303446128" MODIFIED="1436988830101" TEXT="contained in each cell membrane"/>
+</node>
+<node CREATED="1436988840923" ID="ID_1955530123" MODIFIED="1437229849922" TEXT="needed for synthesizing">
+<node CREATED="1436988862185" ID="ID_195474245" MODIFIED="1436988866003" TEXT="vitamin D"/>
+<node CREATED="1436988871266" ID="ID_363189035" MODIFIED="1436988877507" TEXT="adrenal gland hormones"/>
+<node CREATED="1436988882585" ID="ID_1393102903" MODIFIED="1436988885384" TEXT="estrogen"/>
+<node CREATED="1436988887831" ID="ID_1402132160" MODIFIED="1436988890768" TEXT="androgen"/>
+<node CREATED="1436988900268" ID="ID_15374935" MODIFIED="1436988907352" TEXT="progesterone"/>
+</node>
+<node CREATED="1436988918190" ID="ID_1118104400" MODIFIED="1436988926431" TEXT="key part of bile"/>
+<node CREATED="1436988942510" ID="ID_1276998027" MODIFIED="1436988960589">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      build tissue and organs
+    </p>
+    <p>
+      during fetal development
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1436988970485" ID="ID_560717301" MODIFIED="1437229849923" TEXT="it has no calories">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436988984612" ID="ID_288438220" MODIFIED="1436989006115">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      because it doesn't have
+    </p>
+    <p>
+      the fatty acid structure
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1437111539442" ID="ID_113642873" MODIFIED="1437229849925">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      internal&#160;cholesterol synthesis
+    </p>
+    <p>
+      stimulated/increases by consuming
+    </p>
+    <p>
+      (like switching a flip on)
+    </p>
+  </body>
+</html></richcontent>
+<node COLOR="#ff0000" CREATED="1437111580590" ID="ID_1294342240" MODIFIED="1437112798703" TEXT="saturated fats"/>
+<node COLOR="#ff0000" CREATED="1437111586162" ID="ID_331377454" MODIFIED="1437112799187" TEXT="trans fats"/>
+<node CREATED="1437112948302" ID="ID_1481094773" MODIFIED="1437229849925" TEXT="dietary cholesterol">
+<node CREATED="1437112964799" ID="ID_1195073762" MODIFIED="1437113008345" TEXT="far away from the first two"/>
+</node>
+<node CREATED="1437111918367" ID="ID_1323632427" MODIFIED="1437229849926" TEXT="produced in the liver">
+<node CREATED="1437111995927" ID="ID_322117069" MODIFIED="1437112013714" TEXT="more than enough to meet the body&apos;s needs"/>
+</node>
+</node>
+<node CREATED="1437112026863" ID="ID_661382495" MODIFIED="1437112044203" TEXT="there&apos;s no dietary requirement for it ">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#ff0000" CREATED="1437112077484" ID="ID_727472563" MODIFIED="1437229849927" TEXT="only comes from animals">
+<node CREATED="1437112096498" ID="ID_762992751" MODIFIED="1437229849929" TEXT="meat">
+<node CREATED="1437112108615" ID="ID_1476304637" MODIFIED="1437112115454" TEXT="1 ounce has 25mg"/>
+<node CREATED="1437112137534" ID="ID_1326332598" MODIFIED="1437112143805" TEXT="in the flesh of the meat"/>
+<node CREATED="1437112157774" ID="ID_425765662" MODIFIED="1437112237905" TEXT="~ the same amount for any type of meat"/>
+<node CREATED="1437112285269" ID="ID_773267632" MODIFIED="1437229849930" TEXT="ex">
+<node CREATED="1437112287331" ID="ID_709872500" MODIFIED="1437112297720" TEXT="chicken/fish"/>
+<node CREATED="1437112303131" ID="ID_1926255604" MODIFIED="1437229849931" TEXT="organ meats">
+<node CREATED="1437112310237" ID="ID_35578436" MODIFIED="1437112311345" TEXT="brain"/>
+<node CREATED="1437112312619" ID="ID_1220159142" MODIFIED="1437112318849" TEXT="kidneys"/>
+<node CREATED="1437112320109" ID="ID_268239656" MODIFIED="1437112321143" TEXT="liver"/>
+</node>
+<node CREATED="1437112337239" ID="ID_373760770" MODIFIED="1437229849931" TEXT="shellfish">
+<node CREATED="1437112343288" ID="ID_1962673265" MODIFIED="1437112346196" TEXT="shrimp"/>
+</node>
+</node>
+</node>
+<node CREATED="1437112209954" ID="ID_1836767123" MODIFIED="1437229849932" TEXT="egg yolk">
+<node CREATED="1437112221227" ID="ID_1056800987" MODIFIED="1437112227816" TEXT="~ 213mg/egg"/>
+</node>
+<node CREATED="1437112355948" ID="ID_722880174" MODIFIED="1437229849932" TEXT="dairy products">
+<node CREATED="1437112366720" ID="ID_1550149748" MODIFIED="1437112371279" TEXT="full fat"/>
+<node CREATED="1437112373887" ID="ID_339013374" MODIFIED="1437112378477" TEXT="not those fat free"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1437112402469" ID="ID_1602703764" MODIFIED="1437112419770" TEXT="food from plants have none"/>
+<node COLOR="#338800" CREATED="1437112681391" ID="ID_740494175" MODIFIED="1437229849933" TEXT="Even if a product is high in cholesterol">
+<node COLOR="#338800" CREATED="1437112697299" ID="ID_1609538260" MODIFIED="1437112787791" TEXT="it doesn&apos;t mean it&apos;s bad"/>
+<node COLOR="#338800" CREATED="1437112743926" ID="ID_1851958398" MODIFIED="1437229849933" TEXT="egg">
+<node CREATED="1437112749954" ID="ID_1262619569" MODIFIED="1437112757128" TEXT="has high cholesterol"/>
+<node CREATED="1437112759432" ID="ID_1445748900" MODIFIED="1437112781517" TEXT="almost non existent saturated fats"/>
+</node>
+</node>
+<node CREATED="1437113214435" ID="ID_1157564416" MODIFIED="1437229849934" TEXT="blood proteins">
+<node CREATED="1437113104854" ID="ID_1241588739" MODIFIED="1437229849934" TEXT="LDL cholesterol">
+<node CREATED="1437113055433" ID="ID_1607687927" MODIFIED="1437113120282" TEXT="low-density lipoprotein"/>
+</node>
+<node CREATED="1437113108390" ID="ID_457991562" MODIFIED="1437229849934" TEXT="HDL cholesterol">
+<node CREATED="1437113076826" ID="ID_1083188493" MODIFIED="1437113122252" TEXT="high-density lipoprotein"/>
+</node>
+<node CREATED="1437113160644" ID="ID_1818062189" MODIFIED="1437113260191" TEXT="misassociated with cholesterol"/>
+<node CREATED="1437113278648" ID="ID_1816022914" MODIFIED="1437113282440" TEXT="not found in food"/>
+</node>
+</node>
+</node>
+<node CREATED="1436985759919" ID="ID_1206514944" MODIFIED="1437229825570" TEXT="Functions">
+<node CREATED="1437113325181" ID="ID_1483268940" MODIFIED="1437229849935" TEXT="an energy source">
+<node CREATED="1437113342498" ID="ID_708808226" MODIFIED="1437113354042" TEXT="since it has 9 calories/g"/>
+<node CREATED="1437113377583" ID="ID_758157932" MODIFIED="1437113390388" TEXT="controlling it helps weight management"/>
+</node>
+<node CREATED="1437113400093" ID="ID_952032242" MODIFIED="1437229849935" TEXT="protects">
+<node CREATED="1437113403856" ID="ID_269059059" MODIFIED="1437113431420" TEXT="vital organs from trauma"/>
+<node CREATED="1437113407460" ID="ID_1400554309" MODIFIED="1437113410903" TEXT="thermal insulation"/>
+</node>
+<node CREATED="1437113455849" ID="ID_1880017828" MODIFIED="1437229849936" TEXT="vitamin carrier">
+<node CREATED="1437113845577" ID="ID_988206314" MODIFIED="1437113863370" TEXT="transport fat soluble vitamins from gut to blood"/>
+<node CREATED="1437113868387" ID="ID_272093838" MODIFIED="1437229849938" TEXT="vitamins">
+<node CREATED="1437113871373" ID="ID_542005487" MODIFIED="1437113872175" TEXT="A"/>
+<node CREATED="1437113873395" ID="ID_250628823" MODIFIED="1437113874098" TEXT="D"/>
+<node CREATED="1437113875220" ID="ID_743582949" MODIFIED="1437113875887" TEXT="E"/>
+<node CREATED="1437113891013" ID="ID_1881195437" MODIFIED="1437113892397" TEXT="K"/>
+</node>
+</node>
+<node CREATED="1437113463910" ID="ID_1269486602" MODIFIED="1437229849939" TEXT="hunger depressor">
+<node CREATED="1437113918631" ID="ID_1877057837" MODIFIED="1437113926200" TEXT="slows digestion"/>
+<node CREATED="1437114006415" ID="ID_968158698" MODIFIED="1437114013735" TEXT="not as efficient as proteins"/>
+</node>
+<node CREATED="1437114016481" ID="ID_17644351" MODIFIED="1437229849940" TEXT="necessary for the production of">
+<node CREATED="1437114093836" ID="ID_1806817848" MODIFIED="1437114094711" TEXT="many regulatory hormones"/>
+<node CREATED="1437114098870" ID="ID_1384039445" MODIFIED="1437114136142" TEXT="structural components for brain development and function"/>
+</node>
+</node>
+<node CREATED="1437114219875" ID="ID_1165383979" MODIFIED="1437229829852">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Good fat
+    </p>
+    <p>
+      vs Bad fat
+    </p>
+  </body>
+</html></richcontent>
+<node COLOR="#ff0000" CREATED="1437114259132" ID="ID_1481237938" MODIFIED="1437229849941" TEXT="saturated fat &lt; 7-10% of total calories">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1437114536450" ID="ID_590576641" MODIFIED="1437114552998" TEXT="we need to downregulate the cholesterol machine in our liver"/>
+<node CREATED="1437114408178" ID="ID_816307650" MODIFIED="1437229849942" TEXT="from plant sources">
+<node CREATED="1437114573100" ID="ID_385054468" MODIFIED="1437229849943" TEXT="34%">
+<node CREATED="1437114584892" ID="ID_1213390890" MODIFIED="1437114588288" TEXT="coconut oil"/>
+<node CREATED="1437114589891" ID="ID_687239407" MODIFIED="1437114593597" TEXT="palm oil"/>
+</node>
+</node>
+<node CREATED="1437114602024" ID="ID_496024250" MODIFIED="1437229849944" TEXT="from animal sources">
+<node CREATED="1437114607720" ID="ID_1844298104" MODIFIED="1437114610597" TEXT="66%"/>
+<node CREATED="1437114624802" ID="ID_1962893786" MODIFIED="1437229849944" TEXT="reducing it">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1437114675918" ID="ID_654513448" MODIFIED="1437114708197" TEXT="reduces your total fat"/>
+<node CREATED="1437114709768" ID="ID_782310988" MODIFIED="1437114718060" TEXT="reduces your total calories"/>
+</node>
+<node CREATED="1437114634171" ID="ID_350517367" MODIFIED="1437114650503" TEXT="especially those  with high content of saturated fat"/>
+</node>
+</node>
+<node CREATED="1437114762501" ID="ID_1592296071" MODIFIED="1437229849945" TEXT="replace all saturated fats with">
+<node CREATED="1437114777026" ID="ID_1035898598" MODIFIED="1437114788145" TEXT="mono/poly unsaturated fats"/>
+<node COLOR="#338800" CREATED="1437114806729" ID="ID_439290593" MODIFIED="1437229849946" TEXT="replace ribs and cheese">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#338800" CREATED="1437114825214" ID="ID_1898638534" MODIFIED="1437114943084" TEXT="with chicken and fish"/>
+<node CREATED="1437114860985" ID="ID_1691083832" MODIFIED="1437114935358" TEXT="8 ounce rib = 65g fat"/>
+<node CREATED="1437114875906" ID="ID_1282591244" MODIFIED="1437114935358" TEXT="8 ounce chicken breast = 25g fat"/>
+</node>
+</node>
+<node CREATED="1437114970143" ID="ID_1216790780" MODIFIED="1437229849947" TEXT="essential fatty acids">
+<node CREATED="1437114974971" ID="ID_1341389248" MODIFIED="1437229849948" TEXT="Omega 3">
+<node CREATED="1437115007409" ID="ID_1882064600" MODIFIED="1437115013704" TEXT="highly unsaturated fats"/>
+<node CREATED="1437115049058" ID="ID_126805180" MODIFIED="1437229849948" TEXT="needed for the production of prostaglandins">
+<node CREATED="1437115089994" ID="ID_1617413636" MODIFIED="1437115099916" TEXT="hormone like compound"/>
+<node COLOR="#338800" CREATED="1437115107011" ID="ID_739211253" MODIFIED="1437229849949" TEXT="anti inflammatory">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#990000" CREATED="1437115160449" ID="ID_566944469" MODIFIED="1437115481720" TEXT="you don&apos;t need to take aspirin anymore!">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1437115211690" ID="ID_553737805" MODIFIED="1437229849949" TEXT="found in">
+<node CREATED="1437115215107" ID="ID_1074867221" MODIFIED="1437229849950" TEXT="oils of cold water fish">
+<node CREATED="1437115230496" ID="ID_1487412666" MODIFIED="1437115233330" TEXT="herring"/>
+<node CREATED="1437115237194" ID="ID_970209107" MODIFIED="1437115264365" TEXT="macro(u - ro)"/>
+<node CREATED="1437115269800" ID="ID_112203790" MODIFIED="1437115272737" TEXT="sardines"/>
+<node CREATED="1437115277213" ID="ID_670234029" MODIFIED="1437115279622" TEXT="shellfish"/>
+<node CREATED="1437115315421" ID="ID_1687681911" MODIFIED="1437229849950" TEXT="cod liver oil">
+<node CREATED="1437115333130" ID="ID_1042161460" MODIFIED="1437115362206" TEXT="nowadays it can have toxins: mercury etc"/>
+</node>
+</node>
+<node CREATED="1437115372067" ID="ID_466864510" MODIFIED="1437229849951" TEXT="flax seed oils">
+<node CREATED="1437115380850" ID="ID_579983003" MODIFIED="1437115391189" TEXT="less powerful than the one in fish"/>
+<node CREATED="1437115401493" ID="ID_507460967" MODIFIED="1437115446397" TEXT="it&apos;s called linolenic acid">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1437116134282" ID="ID_159173402" MODIFIED="1437229849951" TEXT="if you don&apos;t like fish">
+<node CREATED="1437116145526" ID="ID_665173986" MODIFIED="1437229849952" TEXT="use supplyments">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1437116227335" ID="ID_1747149399" MODIFIED="1437116234763" TEXT="check with the medic">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1437115465211" ID="ID_1458815876" MODIFIED="1437229849953" TEXT="recommended 2 servings/week">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1437115571933" ID="ID_418490768" MODIFIED="1437115602429" TEXT="improvement in our blood lipid profile"/>
+<node CREATED="1437115615847" ID="ID_1805178565" MODIFIED="1437229849954" TEXT="triglycerides go down">
+<node CREATED="1437115631205" ID="ID_1947461280" MODIFIED="1437115635316" TEXT="improved HDL"/>
+</node>
+<node CREATED="1437115645262" ID="ID_549377892" MODIFIED="1437115651929" TEXT="reduces hearth disease risk"/>
+<node CREATED="1437115667758" ID="ID_966299030" MODIFIED="1437229849954" TEXT="prevention of">
+<node CREATED="1437115702687" ID="ID_217340901" MODIFIED="1437115703562" TEXT="Alzheimer&apos;s disease"/>
+<node CREATED="1437115706638" ID="ID_407888179" MODIFIED="1437115724906" TEXT="anti inflammatory disease"/>
+</node>
+</node>
+<node CREATED="1437117130117" ID="ID_866881606" MODIFIED="1437229849955" TEXT="excess">
+<node CREATED="1437117132756" ID="ID_5377514" MODIFIED="1437117140551" TEXT="prevents blood from clotting"/>
+</node>
+</node>
+<node CREATED="1437114978779" ID="ID_729769521" MODIFIED="1437229849957" TEXT="Omega 6">
+<node CREATED="1437115742844" ID="ID_1722165790" MODIFIED="1437115773518" TEXT="opposite of Omega 3"/>
+<node CREATED="1437115783880" ID="ID_1469446686" MODIFIED="1437115790968" TEXT="tends to be overconsumed"/>
+<node CREATED="1437115822679" ID="ID_1858861104" MODIFIED="1437229849958" TEXT="found in">
+<node CREATED="1437115825232" ID="ID_1098580778" MODIFIED="1437229849958" TEXT="meat">
+<node CREATED="1437115955959" ID="ID_181610438" MODIFIED="1437115960715" TEXT="beef corn raised"/>
+</node>
+<node CREATED="1437115827869" ID="ID_1973243204" MODIFIED="1437115830232" TEXT="corn oil"/>
+<node CREATED="1437115840232" ID="ID_233066321" MODIFIED="1437115846584" TEXT="safflower oil"/>
+<node CREATED="1437115847838" ID="ID_1516841326" MODIFIED="1437115850780" TEXT="sunflower oil"/>
+</node>
+<node CREATED="1437115883280" ID="ID_43533879" MODIFIED="1437229849959" TEXT="effects">
+<node CREATED="1437115889158" ID="ID_65868935" MODIFIED="1437115896264" TEXT="increase inflammation"/>
+</node>
+<node CREATED="1437115990225" ID="ID_1519171491" MODIFIED="1437229849960" TEXT="replace with">
+<node CREATED="1437115995243" ID="ID_1464168305" MODIFIED="1437116000336" TEXT="vegetables"/>
+<node CREATED="1437116005591" ID="ID_1371303352" MODIFIED="1437116006960" TEXT="fruits"/>
+<node CREATED="1437116012038" ID="ID_814811670" MODIFIED="1437116014360" TEXT="poultry"/>
+<node CREATED="1437116019844" ID="ID_1999313962" MODIFIED="1437116021856" TEXT="lean meat"/>
+<node CREATED="1437116026099" ID="ID_74806069" MODIFIED="1437116030676" TEXT="unrefined whole grains"/>
+<node CREATED="1437116036918" ID="ID_1977578766" MODIFIED="1437116041501" TEXT="fat free dairy products"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1437116273128" ID="ID_246709251" MODIFIED="1437229830529" TEXT="Limits/day">
+<node CREATED="1437116279734" ID="ID_119959749" MODIFIED="1437116291081" TEXT="&lt;= 300 mg of cholesterol"/>
+<node CREATED="1437116396369" ID="ID_1310407215" MODIFIED="1437229849960" TEXT="&lt; 20 - 30% of total calories intake  from fat">
+<node CREATED="1437116456508" ID="ID_1610012489" MODIFIED="1437116486850" TEXT="lowering it is not possible unless you&apos;re  vegetarian"/>
+<node CREATED="1437116525726" ID="ID_765749156" MODIFIED="1437116555511" TEXT="70-80% should be unsaturated"/>
+</node>
+</node>
+<node CREATED="1437116566349" ID="ID_1863337306" MODIFIED="1437229831219" TEXT="Fat deficiency">
+<node CREATED="1437116673993" ID="ID_1460430116" MODIFIED="1437229833453" TEXT="steatorrhea">
+<node CREATED="1437116692665" ID="ID_650084599" MODIFIED="1437229835347" TEXT="malabsorption of fat">
+<node CREATED="1437116813560" ID="ID_832100359" MODIFIED="1437116823902" TEXT="vitamin deficiencies"/>
+</node>
+<node CREATED="1437116720739" ID="ID_1152467868" MODIFIED="1437229836229" TEXT="due to">
+<node CREATED="1437116741187" ID="ID_429111466" MODIFIED="1437116741187" TEXT="genetic disorders"/>
+<node CREATED="1437116744252" ID="ID_842780603" MODIFIED="1437229849960" TEXT="products on the market">
+<node CREATED="1437116795404" ID="ID_336272991" MODIFIED="1437116797673" TEXT="olestra"/>
+</node>
+</node>
+</node>
+<node CREATED="1437116838415" ID="ID_1130201620" MODIFIED="1437229834352" TEXT="very low fat diets">
+<node CREATED="1437116844103" ID="ID_571759921" MODIFIED="1437116851671" TEXT="cause gold stones"/>
+<node CREATED="1437116872302" ID="ID_959508552" MODIFIED="1437229849961" TEXT="since no fat in consumed">
+<node CREATED="1437116880748" ID="ID_1532216399" MODIFIED="1437229849961" TEXT="bile stays in the gallbladder and can coalesce">
+<node CREATED="1437116976979" ID="ID_1285236040" MODIFIED="1437116979383" TEXT="forming stones"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1437117245452" FOLDED="true" ID="ID_1450916106" MODIFIED="1437389602262" POSITION="left" TEXT="Vitamins - Spot light on C">
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="full-0"/>
+<node CREATED="1437385214480" ID="ID_1870817921" MODIFIED="1437385235766">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Facts about
+    </p>
+    <p style="text-align: center">
+      vitamins
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1437385737684" ID="ID_1246470049" MODIFIED="1437385746825" TEXT="organic substances">
+<node CREATED="1437385774746" ID="ID_1762817274" MODIFIED="1437385779395" TEXT="carbon based"/>
+</node>
+<node CREATED="1437385784475" ID="ID_1241084317" MODIFIED="1437385799537" TEXT="body can&apos;t manufacture vitamins">
+<node CREATED="1437385801752" ID="ID_1461223976" MODIFIED="1437385806214" TEXT="except for vitamin D"/>
+</node>
+<node CREATED="1437385812800" ID="ID_410192980" MODIFIED="1437385830901" TEXT="must be consumed through">
+<node CREATED="1437385824285" ID="ID_1885148760" MODIFIED="1437385825604" TEXT="diet"/>
+<node CREATED="1437385832381" ID="ID_384614580" MODIFIED="1437385835525" TEXT="supplyments"/>
+</node>
+<node CREATED="1437385853520" ID="ID_260334132" MODIFIED="1437385877037" TEXT="13 different vitamins exist">
+<node CREATED="1437385878026" ID="ID_88776258" MODIFIED="1437385882742" TEXT="have been isolated"/>
+<node CREATED="1437385884057" ID="ID_971093424" MODIFIED="1437385886944" TEXT="and classified"/>
+</node>
+<node CREATED="1437385930378" ID="ID_1751338553" MODIFIED="1437385939306" TEXT="bioavailability">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1437385946723" ID="ID_319382331" MODIFIED="1437386002865" TEXT="the amount of nutrient absorbed and utilized"/>
+<node CREATED="1437386036755" ID="ID_1391786422" MODIFIED="1437386075787" TEXT="if a food has 16mg of folic acid">
+<node CREATED="1437386077004" ID="ID_191224573" MODIFIED="1437386138277" TEXT="that&apos;s the quantity in the food">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1437386086087" ID="ID_231786482" MODIFIED="1437386131989" TEXT="not the quantity the body will get out of it">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1437386210952" ID="ID_459537122" MODIFIED="1437386236975" TEXT="influencing factors">
+<node CREATED="1437386239566" ID="ID_456104804" MODIFIED="1437386247837" TEXT="the form of the vitamin">
+<node CREATED="1437386289506" ID="ID_621846024" MODIFIED="1437386296070" TEXT="vitamin E has 8 forms">
+<node CREATED="1437386297120" ID="ID_942510205" MODIFIED="1437386315538" TEXT="not all are equally effective"/>
+</node>
+</node>
+<node CREATED="1437386269455" ID="ID_1992142496" MODIFIED="1437386279626" TEXT="natural or synthetic">
+<node COLOR="#990000" CREATED="1437386331179" ID="ID_1157021324" MODIFIED="1437386553098" TEXT="Natural is not alway the better!">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1437386566885" ID="ID_221591918" MODIFIED="1437386568031" TEXT="vitamin E">
+<node CREATED="1437386352435" ID="ID_1762783318" MODIFIED="1437386573462" TEXT="natural version is better"/>
+</node>
+<node CREATED="1437386580292" ID="ID_834650646" MODIFIED="1437386583851" TEXT="folic acid">
+<node CREATED="1437386593322" ID="ID_1821807080" MODIFIED="1437386594084" TEXT="synthetic version is better">
+<node CREATED="1437388953471" ID="ID_1601452746" MODIFIED="1437388970484" TEXT="~100% bioavailability"/>
+</node>
+<node CREATED="1437386603957" ID="ID_1081175399" MODIFIED="1437386616969" TEXT="refers to foliage in plants"/>
+</node>
+</node>
+<node CREATED="1437388897669" ID="ID_1675933661" MODIFIED="1437388909548" TEXT="food component">
+<node CREATED="1437388910763" ID="ID_663219346" MODIFIED="1437388920041" TEXT="can increase/decrease it"/>
+<node CREATED="1437388997254" ID="ID_497117623" MODIFIED="1437389004523" TEXT="folic acid + another food">
+<node CREATED="1437389005497" ID="ID_299295499" MODIFIED="1437389015391" TEXT="~85% bioavailability"/>
+</node>
+<node CREATED="1437389034887" ID="ID_524938978" MODIFIED="1437389180933" TEXT="iron mineral">
+<node CREATED="1437389038779" ID="ID_142143237" MODIFIED="1437389042762" TEXT="improved with vitamin C"/>
+</node>
+</node>
+</node>
+<node CREATED="1437389100258" ID="ID_844380327" MODIFIED="1437389218882">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      See vitamins + minerals
+    </p>
+    <p>
+      like a house of cards
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1437389116422" ID="ID_97068635" MODIFIED="1437389122613" TEXT="when I knock down one"/>
+<node CREATED="1437389124235" ID="ID_785727637" MODIFIED="1437389252650" TEXT="I can influence the ability of the body to use/absorb/utilize another"/>
+</node>
+</node>
+</node>
+<node CREATED="1437385252297" ID="ID_1549237066" MODIFIED="1437385253435" TEXT="Types">
+<node CREATED="1437385895384" ID="ID_1520104478" MODIFIED="1437385899438" TEXT="fat soluble">
+<node CREATED="1437389304869" ID="ID_426872208" MODIFIED="1437389338507" TEXT="dissolve and remain in the body&apos;s fat stores"/>
+<node CREATED="1437389391857" ID="ID_104260034" MODIFIED="1437389435466" TEXT="there&apos;s a less urgent need to have them on a daily basis"/>
+<node COLOR="#ff0000" CREATED="1437389476414" ID="ID_234613775" MODIFIED="1437389491009" TEXT="do not consume in excess">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1437389356365" ID="ID_646682125" MODIFIED="1437389358184" TEXT="examples">
+<node CREATED="1437389447197" ID="ID_912424267" MODIFIED="1437389459103" TEXT="A"/>
+<node CREATED="1437389365384" ID="ID_1546945705" MODIFIED="1437389365868" TEXT="D"/>
+<node CREATED="1437389450143" ID="ID_1052228354" MODIFIED="1437389450695" TEXT="E"/>
+<node CREATED="1437389367129" ID="ID_1773433258" MODIFIED="1437389457441" TEXT="K"/>
+</node>
+<node CREATED="1437389574151" ID="ID_1546020828" MODIFIED="1437389576319" TEXT="toxicity">
+<node CREATED="1437389577425" ID="ID_611136147" MODIFIED="1437389586314" TEXT="A is the most toxic in excess"/>
+</node>
+</node>
+<node CREATED="1437385900765" ID="ID_829010833" MODIFIED="1437385914255" TEXT="water soluble"/>
+</node>
+<node CREATED="1437385254960" ID="ID_1830083528" MODIFIED="1437385255894" TEXT="Roles"/>
+<node CREATED="1437385263401" ID="ID_1678831969" MODIFIED="1437385268813" TEXT="Functions"/>
+<node CREATED="1437385274659" ID="ID_1015806262" MODIFIED="1437385278256" TEXT="Requirements"/>
+<node CREATED="1437385279598" ID="ID_183499282" MODIFIED="1437385281397" TEXT="Toxicity"/>
 </node>
 </node>
 </map>
